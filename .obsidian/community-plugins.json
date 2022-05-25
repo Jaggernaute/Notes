@@ -1,5 +1,7 @@
 [
   "emoji-shortcodes",
   "obsidian-git",
-  "obsidian-code-block-enhancer"
+  "obsidian-discordrpc",
+  "obsidian-code-block-enhancer",
+  "quick-latex"
 ]

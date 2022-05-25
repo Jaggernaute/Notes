@@ -1,2 +1,1 @@
-.obsidian/* linguist-detectable=false
-
+.obsidian/*.* linguist-detectable=false

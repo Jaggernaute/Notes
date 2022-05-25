@@ -1,2 +1,1 @@
-*.js  export-ignore
-*.css export-ignore
+.obsidian/* export-ignore

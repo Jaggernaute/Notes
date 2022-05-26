@@ -1,6 +1,6 @@
 # Websocket client 
 
-Seting up a websocket client in C++ using the `socket.io` library and CMake as a preprocessor.
+Setting up a websocket client in C++ using the `socket.io` library and CMake as a preprocessor.
 *(for alternatives instalation methods of the library please refer to the official repo [here](https://github.com/socketio/socket.io-client-cpp#installation-alternatives))*
 
 ---
@@ -22,7 +22,7 @@ $ git clone https://github.com/socketio/socket.io-client-cpp.git
 ```
 ---
 ## Getting started :
-First import the header-files of the library :
+First import the header files of the library :
 ```cpp
 #include "libs/socket.io-client-cpp/src/sio_client.h"  
 ```

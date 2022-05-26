@@ -3,5 +3,13 @@
   "obsidian-git",
   "obsidian-discordrpc",
   "obsidian-code-block-enhancer",
-  "quick-latex"
+  "quick-latex",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-completr",
+  "sliding-panes-obsidian",
+  "nldates-obsidian",
+  "highlightr-plugin",
+  "obsidian-icons-plugin",
+  "obsidian-languagetool-plugin"
 ]

@@ -3,7 +3,7 @@
 ---
 ## List of characters and operators :
 
-Below is a list of important (<mark style="background: #FF5582A6;">for me at least</mark> ) *escape chracters* or *operator* in LaTeX, like *commons greek letters*, some usefull *math symbols* and *operators*, and some *random symbols* that may or my not be useful one day.
+Bellow is a list of important (<mark style="background: #FF5582A6;">for me at least</mark> ) *escape chracters* or *operators* in LaTeX, like *commons greek letters*, some useful *math symbols* and *operators*, and some *random symbols* that may or my not be useful one day.
 ### Greek Letters
 
 *Lower case greek letters*

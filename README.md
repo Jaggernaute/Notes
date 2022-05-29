@@ -1,6 +1,6 @@
 
 # ![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png) Notes
-A [obsidian.md](https://obsidian.md/) markdown vault containing notes on the things I learned and useful resources.
+An [obsidian.md](https://obsidian.md/) markdown vault containing notes on the things I learned and useful resources.
 
 The `.osidian/` directory contains all my obsidian configs.
 

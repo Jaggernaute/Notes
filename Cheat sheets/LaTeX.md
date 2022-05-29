@@ -3,10 +3,10 @@
 ---
 ## List of characters and operators :
 
-Bellow is a list of important (<mark style="background: #FF5582A6;">for me at least</mark> ) *escape chracters* or *operators* in LaTeX, like *commons greek letters*, some useful *math symbols* and *operators*, and some *random symbols* that may or my not be useful one day.
+Bellow is a list of important (<mark style="background: #FF5582A6;">for me at least</mark> ) *escape characters* or *operator* in LaTeX, like *common greek letters*, some useful *math symbols* and *operators*, and some *random symbols* that may or may not be useful one day.
 ### Greek Letters
 
-*Lower case greek letters*
+*Lowercase greek letters*
 
 | Escape char  | Letters       |     | Escape char | Letter      | 
 |:------------ |:------------- | --- |:----------- |:----------- |
@@ -28,7 +28,7 @@ Bellow is a list of important (<mark style="background: #FF5582A6;">for me at le
 
 ---
 
-*Upper case greek letters*
+*Uppercase greek letters*
 
 
 | Escape char | Letter     | 

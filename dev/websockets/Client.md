@@ -49,3 +49,9 @@ Then create a socket pointer to the current socket :
 ```cpp
 sio::socket::ptr current_socket;
 ```
+
+
+---
+# Links
+Here are the links to others obsidians notes (even if the appear before )
+[[Server]] [[C++]] [[socketio-doc]]

@@ -124,6 +124,10 @@ errors
 erl
 extension
 every
+export
+example
+exported
+else
 unicode
 usefull
 useful
@@ -167,6 +171,7 @@ delimited
 dot
 delimiter
 doc
+declaration
 png
 pi
 phi
@@ -261,6 +266,7 @@ our
 own
 over
 outside
+order
 and
 at
 alpha
@@ -291,6 +297,8 @@ application
 activities
 ability
 across
+arguments
+anywhere
 Below
 Bellow
 Ba
@@ -323,6 +331,7 @@ loops
 language
 large
 line
+libraries
 for
 forall
 formulas
@@ -384,6 +393,7 @@ syntax
 set
 specify
 said
+say
 random
 rho
 ressources
@@ -434,6 +444,7 @@ timeframes
 two
 thin
 takes
+take
 not
 nu
 nabla
@@ -562,6 +573,7 @@ Dk
 DL
 Di
 Dictionaries
+Dot
 Theta
 Type
 The
@@ -667,12 +679,14 @@ Fb
 FI
 FOSS
 Free
+Function
 Miscellaneous
 Mw
 MWMV
 MC
 Mu
 Mr
+Module
 Here
 Ho
 HG
@@ -752,6 +766,7 @@ within
 world
 way
 which
+where
 QD
 QG
 QJ

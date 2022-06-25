@@ -46,10 +46,10 @@ say() ->
   So in order to use the `fwrite().` function we need to import it from the *io* module, like so: `-import(io,[fwrite/1]).`.
 
 **Dot symbol**
-> Note that every *statement* is delimited by a dot **.** symbol. Each statement need that *delimiter*, **but not every line**.
+> Note that every *statement* is delimited by a dot **.** symbol. Each statement needs that *delimiter*, **but not every line**.
 
 **Comments**
-> *Comments* are declared with the **%** symbol. And *doc-strings* are declared with two of those like `%% @author jaggernaute`. and for file *headers* I like to use thin syntax :
+> *Comments* are declared with the **%** symbol. And *doc-strings* are declared with two of those like `%% @author jaggernaute`. And for file *headers* I like to use this syntax :
 ```erlang 
 %%%-------------------------------------------------------------------  
 %%% @author jaggernaute  

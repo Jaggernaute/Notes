@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "5a0939ae460b8bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1377eef99e5907a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dev/Languages/erlang/erlang.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        },
+        "group": "bed78f8c910a685d"
+      },
+      {
+        "id": "70aa55c24fff9d7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dev/Languages/erlang/erlang.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        },
+        "group": "bed78f8c910a685d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4094180fa62a1fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d186b4db8432559d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf1ab8df5dd68a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2c7217aec965453",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3698e49938b787da",
+    "type": "split",
+    "children": [
+      {
+        "id": "431acce6f431baa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd21b6440195d032",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/Languages/erlang/erlang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "811430f1360a5466",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1377eef99e5907a5",
+  "lastOpenFiles": [
+    "dev/Languages/erlang/erlang.md",
+    "Cheat sheets/LaTeX.md",
+    "dev/Languages/C++/Operators.md",
+    "dev/Languages/C++/Operator Overloading.md",
+    "dev/Languages/C++/C++.md",
+    "dev/CS/CS Introduction.md",
+    "dev/Languages/java/Java.md",
+    "tests/LaTeX.md",
+    "dev/Languages/C++/Design patterns/Design patterns.md",
+    "dev/websockets/Client.md"
+  ]
+}

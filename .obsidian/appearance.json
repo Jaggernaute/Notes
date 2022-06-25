@@ -3,5 +3,6 @@
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "interfaceFontFamily": "JetBrainsMonoMedium Nerd Font",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
 }

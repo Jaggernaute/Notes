@@ -193,6 +193,7 @@ programming
 patterns
 pseudo
 program
+parameters
 LaTeX
 List
 Letters
@@ -259,6 +260,7 @@ org
 our
 own
 over
+outside
 and
 at
 alpha
@@ -340,6 +342,7 @@ functional
 following
 facility
 fault
+function
 some
 symbols
 sigma
@@ -378,6 +381,9 @@ statement
 symbol
 strings
 syntax
+set
+specify
+said
 random
 rho
 ressources
@@ -401,6 +407,7 @@ requirements
 reconfigurable
 restart
 responsive
+required
 that
 theta
 tau
@@ -426,6 +433,7 @@ tolerant
 timeframes
 two
 thin
+takes
 not
 nu
 nabla
@@ -512,6 +520,7 @@ vL
 vN
 version
 variables
+visible
 zeta
 zY
 zWw
@@ -742,6 +751,7 @@ without
 within
 world
 way
+which
 QD
 QG
 QJ

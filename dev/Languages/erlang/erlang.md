@@ -23,22 +23,33 @@ Erlang should be used to develop your application, if you have the following req
 ```erlang
 -module(great).  
 -author("jaggernaute").  
-  
+
+-import(io,[fwrite/1]).
+
 %% API  
--export([hello/0]).  
+-export([say/0]).
   
 say() ->  
-  io:fwrite("Hello, World!\n").  
+  fwrite("Hello, World!\n").  
 ```
 
-> The `-module()` is the module name, it should be the same as the file name without the *.erl* extension :
+**Module declaration:**
+> The `-module()` function set the module name, it should be the same as the file name without the *.erl* extension :
   So for the `./hello.erl` file the module name should be `hello` and it should be declared like `-module(hello).`.
 
-> In a similar way the `-export().` 
+**Function export:**
+> The `-export().` function specify which of the functions are visible outside this module, it takes the function's name and the number of parameters required by said function  :
+  So in the `great` module example we do `-export([say/0]).` where the function *say* which take *0* arguments is exported and can be used anywhere else in the project.
 
-> Note that every statement is delimited by a dot **.** symbol. Each statement need that delimiter, **but not every line**.
+**Function import:**
+> In a similar way the `-import().` function is used to import functions that are exported by others libraries. It takes the *module name* from which is exported the function and the same `[name/param]` as the export :
+  So in order to use the `fwrite().` function we need to import it from the *io* module, like so: `-import(io,[fwrite/1]).`.
 
-> Comments are declared with the **%** symbol. And doc-strings are declared with two of those like `%% @author jaggernaute`. and for file headers I like to use thin syntax :
+**Dot symbol**
+> Note that every *statement* is delimited by a dot **.** symbol. Each statement need that *delimiter*, **but not every line**.
+
+**Comments**
+> *Comments* are declared with the **%** symbol. And *doc-strings* are declared with two of those like `%% @author jaggernaute`. and for file *headers* I like to use thin syntax :
 ```erlang 
 %%%-------------------------------------------------------------------  
 %%% @author jaggernaute  

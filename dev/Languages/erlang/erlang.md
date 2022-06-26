@@ -62,6 +62,42 @@ say() ->
 ```
 
 ---
+
+## Reserved key-words :
+
+| Key-word  | signification                                        |
+| --------- | ---------------------------------------------------- |
+| `after`   | Specifies how much time to wait for a process to end |
+| `and`     | A simple *logical and* operator                      |
+| `andalso` |                                                      |
+| `band`    |                                                      |
+| `begin`   |                                                      |
+| `bnot`    |                                                      |
+| `bor`     |                                                      |
+| `bsl`     |                                                      |
+| `bsr`     |                                                      |
+| `bxor`    |                                                      |
+| `case`    |                                                      |
+| `catch`   |                                                      |
+| `cond`    |                                                      |
+| `dlv`     |                                                      |
+| `end`     |                                                      |
+| `fun`     |                                                      |
+| `if`      |                                                      |
+| `let`     |                                                      |
+| `not`     |                                                      |
+| `of`      |                                                      |
+| `or`      |                                                      |
+| `orelse`  |                                                      |
+| `recieve` |                                                      |
+| `rem`     |                                                      |
+| `try`     |                                                      |
+| `when`    |                                                      |
+| `xor`     |                                                      |
+
+
+
+---
 ## Links and tags
 Here are the links to others obsidians notes (even if the appear before )
 [[CS Introduction]]

@@ -4,32 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "1377eef99e5907a5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dev/Languages/erlang/erlang.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
-        },
-        "group": "0a26fc33d85fc5c5"
-      },
-      {
         "id": "a6e7eea7cce770d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dev/Languages/erlang/erlang.md",
+            "file": "Cheat sheets/admonition.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        },
+        "group": "d24e5aa0cc71af8c"
+      },
+      {
+        "id": "55d159d90d7f83c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cheat sheets/admonition.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
           }
         },
-        "group": "0a26fc33d85fc5c5"
+        "group": "d24e5aa0cc71af8c"
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Languages/erlang/erlang.md",
+                "file": "Cheat sheets/admonition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1377eef99e5907a5",
+  "active": "a6e7eea7cce770d4",
   "lastOpenFiles": [
-    "dev/Languages/erlang/erlang.md",
+    "Cheat sheets/admonition.md",
     "Cheat sheets/LaTeX.md",
+    "dev/Languages/erlang/erlang.md",
     "dev/Languages/C++/Operators.md",
     "dev/Languages/C++/Operator Overloading.md",
     "dev/Languages/C++/C++.md",
     "dev/CS/CS Introduction.md",
     "dev/Languages/java/Java.md",
     "tests/LaTeX.md",
-    "dev/Languages/C++/Design patterns/Design patterns.md",
-    "dev/websockets/Client.md"
+    "dev/Languages/C++/Design patterns/Design patterns.md"
   ]
 }
